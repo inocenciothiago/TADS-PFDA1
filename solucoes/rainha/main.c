@@ -8,6 +8,10 @@ char tabuleiro[50][50];
 int posColuna[50];
 int numSolucoes=0;
 
+void novaFuncao() {
+	printf("teste");
+}
+
 int verificarposColunaicao(int lin, int col, int n) {
 
       int i, novaPosicao;
