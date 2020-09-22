@@ -8,6 +8,38 @@ char tabuleiro[50][50];
 int posColuna[50];
 int numSolucoes=0;
 
+void novaFuncao2() {
+	printf("teste 431");
+
+	printf("teste 123");
+
+	printf("test 321");
+}
+
+void novaFuncao3() {
+	printf("teste 3");
+}
+
+void novaFuncao4() {
+	printf("teste 4");
+}
+
+void novaFuncao5() {
+	printf("teste 5");
+}
+
+void novaFuncao7() {
+	printf("teste 7");
+}
+
+void novaFuncao8() {
+	printf("teste 8");
+}
+
+void novaFuncao9() {
+	printf("teste 9");
+}
+
 int verificarposColunaicao(int lin, int col, int n) {
 
       int i, novaPosicao;
