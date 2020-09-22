@@ -9,7 +9,11 @@ int posColuna[50];
 int numSolucoes=0;
 
 void novaFuncao2() {
-	printf("teste 2");
+	printf("teste 431");
+
+	printf("teste 123");
+
+	printf("test 321");
 }
 
 void novaFuncao3() {
