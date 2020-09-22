@@ -24,8 +24,12 @@ void novaFuncao5() {
 	printf("teste 5");
 }
 
-void novaFuncao6() {
-	printf("teste 6");
+void novaFuncao7() {
+	printf("teste 7");
+}
+
+void novaFuncao8() {
+	printf("teste 8");
 }
 
 int verificarposColunaicao(int lin, int col, int n) {
