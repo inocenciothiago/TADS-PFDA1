@@ -9,7 +9,7 @@ int posColuna[50];
 int numSolucoes=0;
 
 void novaFuncao() {
-	printf("teste");
+	printf("teste 123");
 }
 
 int verificarposColunaicao(int lin, int col, int n) {
