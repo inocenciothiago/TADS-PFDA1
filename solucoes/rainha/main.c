@@ -32,6 +32,10 @@ void novaFuncao8() {
 	printf("teste 8");
 }
 
+void novaFuncao9() {
+	printf("teste 9");
+}
+
 int verificarposColunaicao(int lin, int col, int n) {
 
       int i, novaPosicao;
