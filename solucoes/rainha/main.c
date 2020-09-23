@@ -11,9 +11,15 @@ int numSolucoes=0;
 void novaFuncao2() {
 	printf("teste 431");
 
+	printf("test 321");
+
+	printf("teste 987");
+
 	printf("teste 123");
 
-	printf("test 321");
+	printf("teste 345");
+
+	printf("teste 456");
 }
 
 void novaFuncao3() {
@@ -21,6 +27,8 @@ void novaFuncao3() {
 }
 
 void novaFuncao4() {
+	printf("teste 4");
+
 	printf("teste 4");
 }
 
